@@ -21,10 +21,9 @@ public class Duplicate {
 	                }    
 	            }    
 	            if(count > 1 && string[i] != '0')    
-	                System.out.println(string[i]);    
-	        }    
-	    }    
-	  
-	}
+	                System.out.println(string[i]);     
+	        }
+		}
+}
 
 
